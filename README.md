@@ -26,8 +26,10 @@ TakePicture is an IOS app for implementing the usage of camera and photolibrary.
 
 ## ScreenShots
 
+### Screen 1
 <img src="./Screenshot/HomeScreen.png" width="350" height="600">
 
+### Screen 2
 <img src="./Screenshot/TakePhoto.png" width="350" height="600">    					
 
 
