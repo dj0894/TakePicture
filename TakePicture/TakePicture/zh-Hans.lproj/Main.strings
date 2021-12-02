@@ -1,0 +1,9 @@
+
+/* Class = "UIViewController"; title = "Take Picture"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Take Picture";
+
+/* Class = "UIButton"; configuration.title = "Click to display image"; ObjectID = "pAB-7l-GYi"; */
+"pAB-7l-GYi.configuration.title" = "Click to display image";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pAB-7l-GYi"; */
+"pAB-7l-GYi.normalTitle" = "Button";
